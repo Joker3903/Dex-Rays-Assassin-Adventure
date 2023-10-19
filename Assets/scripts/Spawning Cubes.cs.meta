@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fe61465e61351ec49ab3ae9ef8ca91a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - go: {instanceID: 0}
+  - colorChangeObject: {fileID: 3116481096437327028, guid: 806ac5cc16d96424bb705575d9c1df03, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
